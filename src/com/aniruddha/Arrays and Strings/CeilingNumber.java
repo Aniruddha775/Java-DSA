@@ -1,7 +1,7 @@
 public class CeilingNumber {
     public static void main(String[] args) {
         int[] arr={1,2,4,7,8,9,14,15,17,20};
-        int target=10;
+        int target=9;
         System.out.println(ceiling(arr,target));
     }
     static int ceiling(int[] arr,int target){
