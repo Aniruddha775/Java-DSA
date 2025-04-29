@@ -1,4 +1,4 @@
-package com.aniruddha.tcs;
+package com.aniruddha.Arrays_and_Strings;
 
 public class NumberOfTimesArrayRotated {
     static int rotation(int[] arr){

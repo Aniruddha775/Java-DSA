@@ -1,4 +1,7 @@
-import java.util.*;
+package com.aniruddha.Arrays_and_Strings;
+
+import java.util.ArrayList;
+import java.util.List;
 //https://leetcode.com/problems/find-all-duplicates-in-an-array/
 public class FindAllDuplicates {
     public static void main(String[] args) {

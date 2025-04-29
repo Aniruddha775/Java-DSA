@@ -1,3 +1,5 @@
+package com.aniruddha.Arrays_and_Strings;
+
 class FindDuplicates {
     public static void main(String[] args) {
     int[] nums={1,3,4,2,2};

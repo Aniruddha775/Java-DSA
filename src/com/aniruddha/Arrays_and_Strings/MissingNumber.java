@@ -1,3 +1,5 @@
+package com.aniruddha.Arrays_and_Strings;
+
 //https://leetcode.com/problems/missing-number/description/
 public class MissingNumber {
     public static void main(String[] args) {

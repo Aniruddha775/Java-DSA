@@ -1,3 +1,5 @@
+package com.aniruddha.Arrays_and_Strings;
+
 public class MinInRotatedArray {
     static int findMin(int[] arr){
         int low = 0, high = arr.length - 1;

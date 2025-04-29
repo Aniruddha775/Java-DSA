@@ -1,3 +1,5 @@
+package com.aniruddha.Arrays_and_Strings;
+
 public class SearchInRotatedArrayWithDuplicates {
     public static void main(String[] args) {
         int[] arr={1};

@@ -1,3 +1,5 @@
+package com.aniruddha.Arrays_and_Strings;
+
 //https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 public class SearchInRotatedArray {
     public static void main(String[] args) {

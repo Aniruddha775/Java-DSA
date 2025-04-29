@@ -1,3 +1,5 @@
+package com.aniruddha.Arrays_and_Strings;
+
 public class InfiniteArraySearch {
     public static void main(String[] args) {
         int[] arr = {3, 5, 7, 9, 10, 90,
