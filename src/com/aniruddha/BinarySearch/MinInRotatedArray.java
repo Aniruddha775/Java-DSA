@@ -1,4 +1,4 @@
-package com.aniruddha.Arrays_and_Strings;
+package com.aniruddha.BinarySearch;
 
 public class MinInRotatedArray {
     static int findMin(int[] arr){

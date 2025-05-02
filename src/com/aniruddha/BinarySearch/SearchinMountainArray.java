@@ -1,4 +1,4 @@
-package com.aniruddha.Arrays_and_Strings;
+package com.aniruddha.BinarySearch;
 //https://leetcode.com/problems/find-in-mountain-array/description/
 
 public class SearchinMountainArray {

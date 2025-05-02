@@ -1,4 +1,4 @@
-package com.aniruddha.Arrays_and_Strings;
+package com.aniruddha.BinarySearch;
 
 public class FindSecondLargestElement {
     static int secondLargest(int[] arr){

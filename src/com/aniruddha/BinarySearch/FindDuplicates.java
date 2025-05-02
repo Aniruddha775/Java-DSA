@@ -1,4 +1,4 @@
-package com.aniruddha.Arrays_and_Strings;
+package com.aniruddha.BinarySearch;
 
 class FindDuplicates {
     public static void main(String[] args) {

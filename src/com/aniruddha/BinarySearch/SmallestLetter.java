@@ -1,4 +1,4 @@
-package com.aniruddha.Arrays_and_Strings;
+package com.aniruddha.BinarySearch;
 
 //https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/
 public class SmallestLetter {
