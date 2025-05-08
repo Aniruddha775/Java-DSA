@@ -11,13 +11,14 @@ public class SquareRootOfNumber {
         double root=0.0;
         int s=0;
         int e=n;
-        while(s<=e){
+        while(s<e){
             int m=s+(e-s)/2;
             if(m*m==n){
                 return m;//for perfect square
             }
             else if(m*m>n){
                 e=m-1;
+                root=e;
             }
             else{
                 s=m+1;
